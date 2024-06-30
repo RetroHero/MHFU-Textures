@@ -2,6 +2,9 @@
 
 This repository contains the textures used for the Monster Hunter Freedom Unite game restoration project.
 
+Textures that have as a source ($`\textcolor{Cyan}{\text{Monster Hunter Dos}}`$, $`\textcolor{Cyan}{\text{Monster Hunter G}}`$ and $`\textcolor{Cyan}{\text{Monster Hunter Frontier.}}`$)
+Some had to be adjusted manually.
+
 The textures are separated and indexed ready for upscaling, done in a way to facilitate their use in various projects.
 
 👍$`\textcolor{red}{\text{I would like to give due credit to my assistant: Matsu Uchiha.}}`$
