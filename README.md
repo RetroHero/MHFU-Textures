@@ -4,6 +4,9 @@ This repository contains the textures used for the Monster Hunter Freedom Unite 
 
 The textures are separated and indexed ready for upscaling, done in a way to facilitate their use in various projects.
 
+👍$`\textcolor{red}{\text{I would like to give due credit to my assistant: Matsu Uchiha
+for helping me sort and index the hundreds of files dumped from this game.}}`$
+
 ## In Progress
 
 ### Stages
