@@ -1,4 +1,4 @@
-# Monster Hunter Fredoom Unite (Raw Textures)
+# Monster Hunter Fredoom Unite (Textures)
 
 This repository contains the textures used for the Monster Hunter Freedom Unite game restoration project.
 
