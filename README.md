@@ -10,7 +10,7 @@ $`\textcolor{red}{\text{for helping me sort and index the hundreds of files dump
 ## In Progress
 
 ### Stages
-
+Some textures had to be partially upscaled to keep up with the other higher resolution textures!!
 - :white_check_mark:Village
 - :white_check_mark:SnwMountains
 - :white_check_mark:Jungle
