@@ -36,7 +36,7 @@ Some textures had to be partially upscaled to keep up with the other higher reso
 
 ### Models
 
-- :white_square_button:Player
+- :white_check_button:Player
 - :white_square_button:NPCs
 - :white_square_button:Creatures
 - :white_square_button:Weapons
